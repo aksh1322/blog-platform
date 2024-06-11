@@ -1,0 +1,12 @@
+backend/
+├── src/
+│   ├── controllers/
+│   │   └── postController.ts
+│   ├── models/
+│   │   └── postModel.ts
+│   ├── routes/
+│   │   └── postRoutes.ts
+│   └── app.ts
+├── package.json
+├── tsconfig.json
+└── nodemon.json
